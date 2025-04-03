@@ -1,0 +1,7 @@
+{
+  "name": "telegram-file-app",
+  "dependencies": {
+    "@twa-dev/sdk": "^1.0.3",
+    "react": "^18.2.0"
+  }
+}
